@@ -228,9 +228,9 @@ https://www.instagram.com/p/Bdm88bwjJXG/
 
 20-oct-2018
 
-1st place: Szufla
-2nd place: Łukasz aka Lukenow
-3rd place: Konziu
+1st place: Szufla             
+2nd place: Łukasz aka Lukenow             
+3rd place: Konziu               
 
 https://fb.watch/qgB2jOguSO/
 https://fb.watch/qgB8Roj7n_/
@@ -250,7 +250,7 @@ Organized by Post Neo, world tournament in both shuffle and jumpstyle. One of th
 
 
 
-[![](https://markdown-videos-api.jorgenkh.no/youtube/tr8Bn3flYUo)](https://youtu.be/tr8Bn3flYUo)
+[![](https://markdown-videos-api.jorgenkh.no/youtube/tr8Bn3flYUo)](https://youtu.be/tr8Bn3flYUo)           
 https://youtu.be/BSvz0YE-JeQ?si=_i8fDeDQKqOZEgM0
 https://youtu.be/8aQ-qIEbxgo?si=X-VlmmW9cmsRIjXr
 https://www.youtube.com/watch?v=yiFr7Gwe3_I
