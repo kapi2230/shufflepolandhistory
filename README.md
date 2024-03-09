@@ -248,7 +248,9 @@ Katowice, Spodek
 
 Organized by Post Neo, world tournament in both shuffle and jumpstyle. One of the biggest events in Poland. Featured dancers from even really far places in the world such as Mexico, Brazil or Australia.
 
-https://www.youtube.com/watch?v=tr8Bn3flYUo
+
+
+[![](https://markdown-videos-api.jorgenkh.no/youtube/tr8Bn3flYUo)](https://youtu.be/tr8Bn3flYUo)
 https://youtu.be/BSvz0YE-JeQ?si=_i8fDeDQKqOZEgM0
 https://youtu.be/8aQ-qIEbxgo?si=X-VlmmW9cmsRIjXr
 https://www.youtube.com/watch?v=yiFr7Gwe3_I
